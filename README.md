@@ -7,6 +7,10 @@
 This policy covers the use of LLM coding assistants (GitHub Copilot, ChatGPT, Claude, etc.) for `go-i2p`.
 Data handling policies are out-of-scope for this document.
 
+If you wish to create an LLM use policy based on this template, see:
+ - [https://github.com/go-i2p/llms/](https://github.com/go-i2p/llms/)
+ - [https://github.com/go-i2p/llms/blob/main/TEMPLATE.md](https://github.com/go-i2p/llms/blob/main/TEMPLATE.md)
+
 ## DATA HANDLING RULE
 **If you wouldn't hand the keys to Sam Altman, Elon Musk, or Peter Thiel, then don't give it to the LLM.**
 
