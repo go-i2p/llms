@@ -14,7 +14,7 @@ If you wish to create an LLM use policy based on this template, see:
 ## DATA HANDLING RULE
 **If you wouldn't hand the keys to Sam Altman, Elon Musk, or Peter Thiel, then don't give it to the LLM.**
 
-This includes: credentials, API keys, customer data, proprietary algorithms, or any sensitive information.
+This includes: credentials, API keys, plaintext keys, or any sensitive information.
 
 ## ACCEPTABLE USES
 - Generating tests
